@@ -1,7 +1,7 @@
-# 📚 **Legal Case Management Agent - User Guide**
+# 𓍝 **Legal Case Management Agent - User Guide**
 
-## 🚀 **What This Agent Does**
-Your AI-powered assistant helps lawyers analyze legal case judgments, extract key information, and generate professional summaries and Q&A transcripts.
+## ⭐ **What This Agent Does**
+This AI-powered assistant helps lawyers analyze legal case judgments, extract key information, and generate professional summaries and Q&A transcripts.
 
 ## 📖 **How to Use the Agent**
 
@@ -32,7 +32,7 @@ The agent will ask: **"What would you like to do next?"**
   - **Complete Q&A transcript** (if you asked questions)
 - **Download the document** directly from the chat
 
-## ✅ **What You Get**
+## ✓ **What You Get**
 
 ### **📋 Case Summary**
 - **Structured analysis** of the legal case
@@ -49,13 +49,13 @@ The agent will ask: **"What would you like to do next?"**
 - **Easy access** to previous cases
 - **Organized file structure**
 
-## 🎯 **Best Practices**
+## **Best Practices**
 
 ### **For Best Results:**
-- ✅ **Use clear, readable PDFs** (not scanned images)
-- ✅ **Ask specific questions** about the case
-- ✅ **Review the summary** before asking questions
-- ✅ **Export to Word** for your records
+- ✓ **Use clear, readable PDFs** (not scanned images)
+- ✓ **Ask specific questions** about the case
+- ✓ **Review the summary** before asking questions
+- ✓ **Export to Word** for your records
 
 ### **Example Questions:**
 - *"What law was applied in this ruling?"*
@@ -75,14 +75,14 @@ The agent will ask: **"What would you like to do next?"**
 - **Reference specific parts** of the case
 - **Try rephrasing** your question
 
-## 📞 **Need Help?**
+## **Need Help?**
 - **Contact your IT administrator** for technical issues
 - **Check the Q&A transcript** for previous questions
 - **Re-upload the document** if needed
 
 ---
 
-**🎉 You're ready to start analyzing legal cases with AI assistance!**
+**🎉 Ready to start analyzing legal cases with AI assistance!**
 
 ---
 
@@ -115,4 +115,4 @@ The agent will ask: **"What would you like to do next?"**
 
 ---
 
-*Generated for FirstAI Legal Case Management Solution*
+*FirstAI Legal Case Management Solution*
