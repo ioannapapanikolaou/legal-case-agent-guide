@@ -1,6 +1,6 @@
 # 𓍝 **Legal Case Management Agent - User Guide**
 
-## ⭐ **What This Agent Does**
+## ֎ **What This Agent Does**
 This AI-powered assistant helps lawyers analyze legal case judgments, extract key information, and generate professional summaries and Q&A transcripts.
 
 ## 📖 **How to Use the Agent**
